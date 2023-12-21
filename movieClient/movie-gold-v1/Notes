@@ -1,0 +1,18 @@
+In the command line, install:
+
+
+npm install axios #connect to the distant remote machine through http get requests
+
+npm install bootstrap #layout and styling purpose
+and add `import 'boootstrap/dist/css/bootstap.min/css` in index.js
+
+npm i react-bootstrap #allow us to use bootstrap related components for layout and styling purpose
+
+npm i @fortawesome/react-fontawesome #deploy react-fontawesome
+npm i @fortawesome/free-solid-svg-icons
+
+npm i react-player #this can let trailer played in our app
+
+npm i react-router-dom #deploy the pause where the component will reside on the map the roots to our components as it was.
+
+npm install react-material-ui-carousel
